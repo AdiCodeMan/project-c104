@@ -1,0 +1,32 @@
+body{
+    color:black;
+    background-color: lightblue;
+}
+
+.header{
+    background-color: rgb(37, 212, 95);
+}
+
+#camera, #result
+{
+    border-width: 3px;
+    border-color:black;
+    border-style:ridge;
+    width:300px;
+    height:250px;
+}
+
+h3{
+    width:700px;
+    height:50px;
+    padding:10px;
+    font-size:x-large;
+    font-weight: bold;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border-radius: 40px;
+}
+
+hr{
+    color:black;
+}
+
